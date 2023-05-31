@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">IntentAndroid</string>
     <string name="first">First Activity</string>
+    <string name="explicit">Explicit</string>
+    <string name="implicit">Implicit</string>
     <string name="second">Second Activity</string>
 </resources>
